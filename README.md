@@ -3,10 +3,10 @@
 </p>
 
 ```diff
-  [00:00:01]  you      → so who is this guy?
-  [00:00:02]  koushik  → i teach machines to listen, think, and talk back.
-+ [00:00:03]  koushik  → currently: voice agents that whisper the right answer before you need it.
-- [00:00:04]  koushik  → not currently: sleeping.
+  you      → who's this?
+  koushik  → i teach machines to listen & talk back.
++ now      → voice agents that whisper answers live.
+- not now  → sleeping.
 ```
 
 <p align="center">
